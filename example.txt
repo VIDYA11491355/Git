@@ -1,1 +1,2 @@
-This is example fileThis is the first change in the file
+This is example file
+This is the first change in the file
